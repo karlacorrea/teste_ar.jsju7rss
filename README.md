@@ -1,1 +1,2 @@
-# teste_ar.jsju7rss
+# Testando o app AR.JS Studio
+imagem esta em anexo
